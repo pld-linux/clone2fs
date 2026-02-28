@@ -2,7 +2,7 @@ Summary:	Copy an entire ext2/ext3 file system
 Summary(pl.UTF-8):	Kopiowanie całego systemu plików ext2/ext3
 Name:		clone2fs
 Version:	1.3.0
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Applications/System
 Source0:	http://www.mr511.de/software/%{name}-%{version}.tar.gz
